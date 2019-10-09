@@ -64,7 +64,11 @@ h3{
 
 .index h3{
   color: black;
-  background-color:  #FF6347
+  background-color:  #FF6347;
+}
+
+.index p{
+  color:#800000;
 }
 
 	
