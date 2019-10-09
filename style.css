@@ -36,14 +36,13 @@ h1 {
 }
 
 .nav li a:hover {
-	background-color: #111111;
+	background-color: #FF6347;
 }
 
 img{
 	width: 20em;
 	height: 20em;
 	border: 1px solid #ddd;
-	border-radius: 2em;
 }
 h3{
  	background-color: #89E2F3;	
