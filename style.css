@@ -1,0 +1,53 @@
+body {
+   	padding-left: 2em;
+	padding-right: 2em;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-color: lightblue;
+}
+
+h1 {
+	color: navy;
+  	text-align: center;
+
+}
+.nav{
+	background-color: #075868;
+  	text-align: center;
+  	border: 3px solid green;
+	display: block;
+	color: white;
+}
+.nav ul{
+	list-style-type: none;	
+	margin: 0;
+	padding: 0;
+ 	text-align: center;
+       	display: inline-block;
+}
+.nav li{
+	float: left;
+}
+.nav li a {
+	display: block;
+  	color: white;
+  	text-align: center;
+  	padding: 16px;
+  	text-decoration: none;
+}
+
+.nav li a:hover {
+	background-color: #111111;
+}
+
+img{
+	width: 20em;
+	height: 20em;
+	border: 1px solid #ddd;
+	border-radius: 2em;
+}
+h3{
+ 	background-color: #89E2F3;	
+}
+
+
+
