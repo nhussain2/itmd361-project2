@@ -1,38 +1,41 @@
 body {
-   	padding-left: 2em;
+  padding-left: 2em;
 	padding-right: 2em;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	background-color: #CD5C5C;
 }
 
 h1 {
-	color: #800000 ;
-  	text-align: center;
-
+  color: #800000 ;
+  text-align: center;
 }
+
 .nav{
 	background-color: #B22222;
-  	text-align: center;
-  	border: 2px solid #FF6347;
+  text-align: center;
+  border: 2px solid #FF6347;
 	display: block;
 	color: white;
 }
+
 .nav ul{
 	list-style-type: none;	
 	margin: 0;
 	padding: 0;
  	text-align: center;
-       	display: inline-block;
+  display: inline-block;
 }
+
 .nav li{
 	float: left;
 }
+
 .nav li a {
 	display: block;
-  	color: white;
-  	text-align: center;
-  	padding: 16px;
-  	text-decoration: none;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
 }
 
 .nav li a:hover {
@@ -44,9 +47,15 @@ img{
 	height: 20em;
 	border: 1px solid #ddd;
 }
+
 h3{
  	background-color:  #FF6347;	
 }
 
+#index ul{
+  color:white;
+}
+
+	
 
 
