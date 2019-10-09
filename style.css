@@ -5,6 +5,10 @@ body {
   background-color: #CD5C5C;
 }
 
+ul {
+  list-style: square;
+}
+
 h1 {
   color: #800000 ;
   text-align: center;
