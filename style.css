@@ -2,18 +2,18 @@ body {
    	padding-left: 2em;
 	padding-right: 2em;
 	font-family: Georgia, "Times New Roman", Times, serif;
-	background-color: lightblue;
+	background-color: #CD5C5C;
 }
 
 h1 {
-	color: navy;
+	color: #800000 ;
   	text-align: center;
 
 }
 .nav{
-	background-color: #075868;
+	background-color: #B22222;
   	text-align: center;
-  	border: 3px solid green;
+  	border: 2px solid #FF6347;
 	display: block;
 	color: white;
 }
