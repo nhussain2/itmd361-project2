@@ -10,12 +10,12 @@ ul {
 }
 
 h1 {
-  color: #800000 ;
+  color: #425180 ;
   text-align: center;
 }
 
 h2 {
-  color: #800000;
+  color: #425180;
 }
 
 .nav{
@@ -59,36 +59,35 @@ img{
 
 
 .index ul{
-  color:white;
+  color:#425180;
 }
 
 .index h3{
   color: white;
-  background-color: #B22222 ;
+  background-color: #84A1FF ;
 }
 
 .index p{
-  color:#800000;
+  color:#696E80;
 }
 
 
 .internship ul{
   color:white;
-  background-color:#B22222;
+  background-color:#6A81CC;
 }
 
 .internship h3{
-  color: #800000;
+  color: #425180;
   text-align: center;
 }
 
 .internship p{
-  color: white;
+  color:#425180 ;
   text-align: center;
 }
 	
 .video p{
-  color: #800000;
-  background-color:#FF6347;
+  color: #696E80;
 }
 
