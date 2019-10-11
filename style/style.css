@@ -18,7 +18,7 @@ h2 {
   color: #425180;
 }
 
-.nav{
+nav{
   background-color: #6A81CC;
   text-align: center;
   border: 2px solid #425180;
@@ -26,7 +26,7 @@ h2 {
   color: white;
 }
 
-.nav ul{
+nav ul{
   list-style-type: none;	
   margin: 0;
   padding: 0;
@@ -34,11 +34,11 @@ h2 {
   display: inline-block;
 }
 
-.nav li{
+nav li{
   float: left;
 }
 
-.nav li a {
+nav li a {
   display: block;
   color: white;
   text-align: center;
@@ -46,7 +46,7 @@ h2 {
   text-decoration: none;
 }
 
-.nav li a:hover {
+nav li a:hover {
   background-color: #425180;
   color: white;
 }
